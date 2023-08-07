@@ -16,7 +16,7 @@ const menu = {
 }
 
 const limit = {
-   free: 35,
+   free: 100,
    premium: 150,
    VIP: "Infinity",
    download: {
@@ -52,7 +52,7 @@ export default {
    Exif: {
       packId: "Nanzz",
       packName: `-`,
-      packPublish: "Dika Ardnt.",
+      packPublish: "Nanzz.",
       packEmail: "wkwkplrkuda@gmail.com",
       packWebsite: "https://nanzzxyz.my.id",
       androidApp: "https://play.google.com/store/apps/details?id=com.bitsmedia.android.muslimpro",
