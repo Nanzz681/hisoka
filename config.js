@@ -16,7 +16,7 @@ const menu = {
 }
 
 const limit = {
-   free: 15,
+   free: 35,
    premium: 150,
    VIP: "Infinity",
    download: {
@@ -34,7 +34,7 @@ export default {
    APIs: {
       xfarr: {
          baseURL: 'https://api.xfarr.com',
-         Key: "buy on https://api.xfarr.com/pricing"
+         Key: "9mpiFJ9Yt6"
       }
    },
 
@@ -43,18 +43,18 @@ export default {
       public: true,
       antiCall: true, // reject call
       database: "database.json", // End .json when using JSON database or use Mongo URI
-      owner: ["6288292024190"], // set owner number on here
+      owner: ["6282140059454"], // set owner number on here
       sessionName: "session", // for name session
       prefix: /^[°•π÷×¶∆£¢€¥®™+✓_=|/~!?@#%^&.©^]/i
    },
 
    // Set pack name sticker on here
    Exif: {
-      packId: "https://dikaardnt.my.id",
-      packName: `Sticker Ini Dibuat Oleh :`,
+      packId: "Nanzz",
+      packName: `-`,
       packPublish: "Dika Ardnt.",
-      packEmail: "okeae2410@gmail.com",
-      packWebsite: "https://dikaardnt.my.id",
+      packEmail: "wkwkplrkuda@gmail.com",
+      packWebsite: "https://nanzzxyz.my.id",
       androidApp: "https://play.google.com/store/apps/details?id=com.bitsmedia.android.muslimpro",
       iOSApp: "https://apps.apple.com/id/app/muslim-pro-al-quran-adzan/id388389451?|=id",
       emojis: [],
